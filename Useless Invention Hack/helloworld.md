@@ -55,7 +55,7 @@ Language  |   translation |
 | Punjabi:  |     ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!| 
 | Romanian: |     Salut Lume!| 
 | Russian: |      Привет мир!| 
-| Scots Gaelic: Hàlo a Shaoghail!| 
+| Scots Gaelic:|  Hàlo a Shaoghail!| 
 | Serbian:  |     Здраво Свете!| 
 | Sesotho:  |     Lefatše Lumela!| 
 | Sinhala:  |     හෙලෝ වර්ල්ඩ්!| 
@@ -69,7 +69,7 @@ Language  |   translation |
 | Turkish: |      Selam Dünya!| 
 | Ukrainian: |    Привіт Світ!| 
 | Uzbek:   |      Salom Dunyo!| 
-| Vietnamese:   Chào thế giới!| 
+| Vietnamese:  |  Chào thế giới!| 
 | Welsh:  |       Helo Byd!| 
 | Xhosa:  |    Molo Lizwe!| 
 | Yiddish:  |     העלא וועלט!| 
